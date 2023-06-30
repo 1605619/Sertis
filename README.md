@@ -35,7 +35,15 @@ Features :
 
 To run the project in local:
 
-Frontend: `npx parcel index.html`
+1. `git clone https://github.com/1605619/Sertis.git`
+2. Create a `.env` file in backend/ folder, and give DB & PORT
+
+Frontend: 
+1. `npm install`
+2. `npx parcel index.html`
     - Parcel will run the project in local server at Port 1234
-Backend: `node app.js `
+Backend: 
+0. `cd backend/`
+1. `npm install`
+2. `node app.js `
     - Server will start running on Port 3000
