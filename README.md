@@ -47,3 +47,6 @@ Backend:
 1. `npm install`
 2. `node app.js `
     - Server will start running on Port 3000
+
+
+For any issues kindly reach out to me on `priyanshuagarwalofficial@gmail.com`
