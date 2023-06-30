@@ -2,3 +2,4 @@
 /dist
 .parcel-cache
 /backend/.env
+/backend/node_modules
