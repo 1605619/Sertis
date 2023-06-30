@@ -1,0 +1,22 @@
+export const categoryList = [
+    "Technology",
+    "Travel",
+    "Food",
+    "Health and Fitness",
+    "Fashion",
+    "Lifestyle",
+    "Personal Development",
+    "Finance",
+    "Entertainment",
+    "Sports",
+    "Parenting",
+    "Education",
+    "DIY and Crafts",
+    "Science",
+    "Books and Literature",
+    "Art and Design",
+    "Business and Entrepreneurship",
+    "Home and Garden",
+    "Music",
+    "Social Issues"
+  ];
